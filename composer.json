@@ -1,0 +1,17 @@
+{
+    "name": "hp/myownmvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "biruktk",
+            "email": "alltechs64@gmil.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
